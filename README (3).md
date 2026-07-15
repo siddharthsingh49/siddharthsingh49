@@ -12,8 +12,6 @@
 
 ## 👨‍💻 Who Am I
 
-```typescript
-const developer = {
   
   stack: [
     "C++", "C", "Python",
