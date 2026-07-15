@@ -14,7 +14,7 @@
 
 ```typescript
 const developer = {
-  title: "ECE Student | Embedded Systems Enthusiast",
+  
   stack: [
     "C++", "C", "Python",
     "React.js", "Node.js", "Express.js", "MongoDB",
